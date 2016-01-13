@@ -1,0 +1,25 @@
+{
+  "name": "color-converter",
+  "version": "1.0.0",
+  "description": "Mocha unit tests simple example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BriptimusPrimus/color-converter.git"
+  },
+  "keywords": [
+    "mocha",
+    "unit",
+    "test",
+    "api"
+  ],
+  "author": "briptimus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BriptimusPrimus/color-converter/issues"
+  },
+  "homepage": "https://github.com/BriptimusPrimus/color-converter#readme"
+}
